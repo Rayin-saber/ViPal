@@ -1,7 +1,7 @@
 '''
 Created on Wed Oct 29 15:45:03 2020
 
-@author: Luo Zihan
+@author: Rui Yin and Luo Zihan
 '''
 
 import os
