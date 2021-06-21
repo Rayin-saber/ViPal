@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 23 11:10:43 2020
 
-@author: Luo Zihan
+@author: Rui Yin and Luo Zihan
 """
 
 import csv
