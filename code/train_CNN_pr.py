@@ -2,7 +2,7 @@
 '''
 Created on Mon Oct 19 20:25:03 2020
 
-@author: Luo Zihan
+@author: Rui Yin and Luo Zihan
 '''
 
 from __future__ import division
