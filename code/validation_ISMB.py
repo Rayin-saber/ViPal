@@ -1,7 +1,7 @@
 """
 Created on Fri Dec 08 17:15:25 2017
 
-@author: Rayin
+@author: Rui Yin and Luo Zihan
 """
 
 import math
